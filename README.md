@@ -1,4 +1,8 @@
-<br clear="both">
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47cmiyvan0o9hos601t0ciwdvulazcg11fgml5kkr0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
 
 <h2 align="center">A virtuoso, known as S. M. Shakib Hossain, crafting dreams in code.</h2>
 
@@ -59,7 +63,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hossainsmshakib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=hossainsmshakib&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainsmshakib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossainsmshakib&area=true&hide_border=true&hide_title=false&theme=vue" height="150" alt="activity-graph graph"  />
 </div>
@@ -69,11 +72,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/hossainsmshakib/hossainsmshakib/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47cmiyvan0o9hos601t0ciwdvulazcg11fgml5kkr0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
 
 ###
