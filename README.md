@@ -21,11 +21,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hossainsmshakib/count.svg?"  />
-</div>
 
 ###
 
