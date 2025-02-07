@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">As an artisan, I weave ethereal dreams in code, letting ideas ascend.<br>Ping me - hossainsmshakib00@gmail.com</p>
+<p align="center">As an artisan, I weave ethereal dreams in code, letting ideas ascend.<br>📞 +8801777075747<br>📫 hossainsmshakib00@gmail.com</p>
 
 ###
 
