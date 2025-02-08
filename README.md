@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47cmiyvan0o9hos601t0ciwdvulazcg11fgml5kkr0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
 ###
 
 <h2 align="center">A virtuoso, known as S. M. Shakib Hossain, crafting dreams in code.</h2>
