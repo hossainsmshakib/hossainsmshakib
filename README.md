@@ -1,6 +1,6 @@
 ###
 
-<h2 align="center">A virtuoso, known as S. M. Shakib Hossain, crafting dreams in code.</h2>
+<h2 align="center">A virtuoso known as S. M. Shakib Hossain, crafting dreams in code.</h2>
 
 ###
 
