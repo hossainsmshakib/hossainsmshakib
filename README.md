@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">As an artisan, I weave ethereal dreams in code, letting ideas ascend.<br>𝑾𝒉𝒂𝒕𝒔𝑨𝒑logo 📞 +8801886075737<br>📫 hossainsmshakib00@gmail.com</p>
+<p align="center">As an artisan, I weave ethereal dreams in code, letting ideas ascend.<br> ![whatsapp](https://github.com/user-attachments/assets/01057f57-b40b-491c-9784-cb7e04985ed8) 📞 +8801886075737<br>📫 hossainsmshakib00@gmail.com</p>
 
 ###
 
