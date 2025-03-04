@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">As an artisan, I weave ethereal dreams in code, letting ideas ascend.<br> Call or WhatsApp +8801886075737 📫 hossainsmshakib00@gmail.com</p>
+<p align="center">As an artisan, I weave ethereal dreams in code, letting ideas ascend.<br> Call or WhatsApp: +8801886075737 <br> Mail: hossainsmshakib00@gmail.com</p>
 
 ###
 
