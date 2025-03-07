@@ -1,10 +1,10 @@
 ###
 
-<h2 align="center">"A virtuoso known as S. M. Shakib Hossain, crafting dreams in code"</h2>
+<h2 align="center">"The artisan who weave ethereal dreams in code, letting ideas ascend"</h2>
 
 ###
 
-<p align="center">As an artisan, I weave ethereal dreams in code, letting ideas ascend.<br> Call or WhatsApp: +8801886075737 <br> Mail: hossainsmshakib00@gmail.com</p>
+<p align="center">Call or WhatsApp: +8801886075737 <br> Mail: hossainsmshakib00@gmail.com</p>
 
 ###
 
